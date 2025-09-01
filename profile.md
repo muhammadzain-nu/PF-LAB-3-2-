@@ -7,10 +7,4 @@
 git status
 git add
 git commit
-```
-```
-git status
-git add
-git commit
-```
-this is the file of my second branch
+
